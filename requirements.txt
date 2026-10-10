@@ -1,0 +1,6 @@
+nicegui>=2.0
+curl_cffi>=0.6
+beautifulsoup4>=4.12
+lxml>=5.0
+yarl>=1.9
+playwright>=1.40
